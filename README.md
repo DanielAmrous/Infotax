@@ -1,0 +1,2 @@
+# Infotax
+State of Delaware:  Franchise Tax Report Files every year with the Delaware Secretary of State for all types of entities which are registered with the Delaware Secretary of State. An entity which is registered with the state of Delaware pays franchise taxes regardless where the business is operated. Franchise Taxes and Annual Reports due date to file is not later than the March First of each year.
